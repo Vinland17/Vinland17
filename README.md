@@ -14,34 +14,30 @@
 
 ## 🚀 Focus Areas
 
-- **Frontend/Backend** – React, Next.js, Node.js, Express  
+- **Frontend/Backend** – React, Spring, spring-boot, HTML , CSS , Typescript  
 - **AI/ML** – Python, LangChain, TensorFlow  
 - **Web3** – Solidity, Smart Contracts  
-- **Design** – Figma, Framer Motion, UI/UX Principles  
+- **Database** – MongoDB, MySQL  
 
 ---
 
 ## 🧰 Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,mongodb,python,c,cpp,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,spring,springboot,tailwind,mongodb,python,c,c++,git,github,vscode,AWS,MySQL" />
 </p>
 
 ---
 
 ## 🌟 Projects
 
-- 🚀 [**DevPortfolio**](https://github.com/Vinland17/dev-portfolio)  
-  <sub><em>React, Tailwind CSS, Vite</em></sub>  
-  – A personal portfolio showcasing skills, projects, and resume
+- 🚀 [**DEV-Expense-tracking**](https://github.com/Vinland17/expense)  
+  <sub><em>java, springboot, MongoDB</em></sub>  
+  – Defenitlly not a basic project , comes with ui swagger , global exception handller and a api responce class , This personal expense tracking application that keeps track of your day to day expenditure
 
-- 🧮 [**MERN Todo App**](https://github.com/Vinland17/todo-mern)  
-  <sub><em>MongoDB, Express, React, Node.js</em></sub>  
-  – Full-stack app with user authentication, CRUD, and responsive design
-
-- 🎨 [**Weather Wizard**](https://github.com/Vinland17/weather-wizard)  
-  <sub><em>React, OpenWeather API, CSS</em></sub>  
-  – A minimalistic weather app fetching live forecasts by city
+- 🧮 [**Todo App**](https://github.com/Vinland17/Projects)  
+  <sub><em>java, springboot, MongoDB</em></sub>  
+  – Backend app with proper CRUD, and responsive design , that helps you not forget your task.
 
 ---
 
@@ -64,10 +60,11 @@
 
 ## 🔭 Currently Exploring
 
-- Next.js App Router  
+- React.js and front end framework.  
 - Design Systems & UI Architecture  
 - REST & GraphQL APIs  
-- Personal productivity using Zettelkasten & Notion workflows  
+- Personal carrier profile.
+- Cloud computing with dev-ops
 
 ---
 
