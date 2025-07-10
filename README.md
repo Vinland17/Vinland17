@@ -28,6 +28,8 @@
 </p>
 
 ---
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vinland17&show_icons=true&theme=default" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=Vinland17&theme=default" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinland17&layout=compact&theme=default" width="48%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vinland17&bg_color=ffffff&color=000000&line=007acc&point=000000&area=true&hide_border=true" alt="GitHub Activity Graph" /> </p>
+---
 
 ## 🌟 Projects
 
