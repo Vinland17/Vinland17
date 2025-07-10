@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vineet Kelaskar 🚀</h1>
+<h1 align="center">Hi, I'm Vineet M Kelaskar 🚀</h1>
 <p align="center"><em>Full-Stack Developer | Tech Enthusiast | Lifelong Learner</em></p>
 
 ---
@@ -24,7 +24,7 @@
 ## 🧰 Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,spring,springboot,tailwind,mongodb,python,c,c++,git,github,vscode,AWS,MySQL" />
+   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,spring,bootstrap,tailwind,mongodb,mysql,python,c,cpp,git,github,vscode,aws" />
 </p>
 
 ---
