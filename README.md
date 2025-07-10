@@ -1,6 +1,16 @@
 <h1 align="center">Hi, I'm Vineet M Kelaskar 🚀</h1>
 <p align="center"><em>Full-Stack Developer | Tech Enthusiast | Lifelong Learner</em></p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vinland17&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Vinland17?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/Vinland17?style=social" />
+  <img src="https://img.shields.io/badge/Code-Java-orange?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-SpringBoot-brightgreen?logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-green?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-blue?logo=amazonaws&logoColor=white" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
