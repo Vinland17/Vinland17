@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vineet M Kelaskar 🚀</h1>
+<h1 align="center">Hi, I'm Vineet M Kelaskar </h1>
 <p align="center"><em>Full-Stack Developer | Tech Enthusiast | Lifelong Learner</em></p>
 
 <p align="center">
@@ -45,7 +45,7 @@
 <sub>Java, Spring Boot, OpenAI API, Vector DB, RAG Architecture</sub>
 – An AI-powered spiritual guide utilizing Retrieval-Augmented Generation (RAG) to provide context-aware responses from sacred texts. Features a robust Spring Boot backend with custom prompt engineering and seamless integration with high-performance LLMs.
 
-Cosmo-Discover
+- Cosmo-Discover
 <sub>React.js, NASA API, Tailwind CSS, Data Visualization</sub>
 – An interactive space exploration dashboard that fetches and visualizes real-time astronomical data from NASA’s Open APIs. Implements responsive UI components and efficient state management to display high-resolution imagery and complex space-related datasets.
 
