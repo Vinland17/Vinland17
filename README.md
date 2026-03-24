@@ -13,16 +13,16 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 Currently pursuing **B.Tech in Computer Science Engineering** at Presidency University, Bengaluru  
-- 🌱 Passionate about **web development**, **emerging tech**, and solving real-world problems  
-- 💡 Constantly exploring tools in **AI, Web3**, and **Cloud**  
-- 💬 Always open to collaboration and learning  
+-  Currently pursuing **B.Tech in Computer Science Engineering** at Presidency University, Bengaluru  
+-  Passionate about **web development**, **emerging tech**, and solving real-world problems  
+-  Constantly exploring tools in **AI, Web3**, and **Cloud**  
+-  Always open to collaboration and learning  
 
 ---
 
-## 🚀 Focus Areas
+##  Focus Areas
 
 - **Frontend/Backend** – React, Spring, spring-boot, HTML , CSS , Typescript  
 - **AI/ML** – Python, LangChain, TensorFlow  
@@ -31,7 +31,7 @@
 
 ---
 
-## 🧰 Toolbox
+##  Toolbox
 
 <p align="center">
    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,spring,bootstrap,tailwind,mongodb,mysql,python,c,cpp,git,github,vscode,aws" />
@@ -39,19 +39,19 @@
 
 ---
 
-## 🌟 Projects
+##  Projects
 
-- 🚀 [**DEV-Expense-tracking**](https://github.com/Vinland17/expense)  
-  <sub><em>java, springboot, MongoDB</em></sub>  
-  – Defenitlly not a basic project , comes with ui swagger , global exception handller and a api responce class , This personal expense tracking application that keeps track of your day to day expenditure
+- AskLordKrishna.ai
+<sub>Java, Spring Boot, OpenAI API, Vector DB, RAG Architecture</sub>
+– An AI-powered spiritual guide utilizing Retrieval-Augmented Generation (RAG) to provide context-aware responses from sacred texts. Features a robust Spring Boot backend with custom prompt engineering and seamless integration with high-performance LLMs.
 
-- 🧮 [**Todo App**](https://github.com/Vinland17/Projects)  
-  <sub><em>java, springboot, MongoDB</em></sub>  
-  – Backend app with proper CRUD, and responsive design , that helps you not forget your task.
+Cosmo-Discover
+<sub>React.js, NASA API, Tailwind CSS, Data Visualization</sub>
+– An interactive space exploration dashboard that fetches and visualizes real-time astronomical data from NASA’s Open APIs. Implements responsive UI components and efficient state management to display high-resolution imagery and complex space-related datasets.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vinland17&show_icons=true&theme=default" width="48%" />
@@ -68,7 +68,7 @@
 
 ---
 
-## 🔭 Currently Exploring
+##  Currently Exploring
 
 - React.js and front end framework.  
 - Design Systems & UI Architecture  
@@ -78,7 +78,7 @@
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" /></a>
@@ -88,7 +88,7 @@
 
 ---
 
-## 🧠 Favorite Quote
+##  Favorite Quote
 
 > *"Stay hungry, stay foolish."*  
 > — Steve Jobs
