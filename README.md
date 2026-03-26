@@ -43,7 +43,7 @@
 
 - AskLordKrishna.ai
 <sub>Java, Spring Boot, OpenAI API, Vector DB, RAG Architecture</sub>
-– An AI-powered spiritual guide utilizing Retrieval-Augmented Generation (RAG) to provide context-aware responses from sacred texts. Features a robust Spring Boot backend with custom prompt engineering and seamless integration with high-performance LLMs.
+– An AI-powered spiritual guide utilizing Retrieval-Augmented Generation (RAG) to provide context-aware responses from sacred texts. Features a robust Spring Boot backend with custom prompt engineering and seamless integration with high-performance LLMs
 
 - Cosmo-Discover
 <sub>React.js, NASA API, Tailwind CSS, Data Visualization</sub>
